@@ -1,10 +1,12 @@
 
+# Daily Task APP UI DESIGN
 
-# dailytask
+<!-- <img src="https://user-images.githubusercontent.com/81028182/123093726-bb9a0100-d44b-11eb-9018-2f26b052fc4f.mp4
+" width="330" height="690"> -->
+<!-- https://user-images.githubusercontent.com/81028182/123093726-bb9a0100-d44b-11eb-9018-2f26b052fc4f.mp4
+ -->
 
-A new Flutter project.
-
-## Getting Started
+## Some Screenshots
 
 ![Screenshot_4](https://user-images.githubusercontent.com/81028182/123508988-9d721200-d692-11eb-97d9-53c86d677b2d.png)
 
