@@ -1,10 +1,9 @@
 
+
 # Daily Task APP UI DESIGN
 
-<!-- <img src="https://user-images.githubusercontent.com/81028182/123093726-bb9a0100-d44b-11eb-9018-2f26b052fc4f.mp4
-" width="330" height="690"> -->
-<!-- https://user-images.githubusercontent.com/81028182/123093726-bb9a0100-d44b-11eb-9018-2f26b052fc4f.mp4
- -->
+<img src="https://user-images.githubusercontent.com/81028182/123509024-e32eda80-d692-11eb-9a5e-e5a65b81ec90.gif
+" width="330" height="690">
 
 ## Some Screenshots
 
